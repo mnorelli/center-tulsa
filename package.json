@@ -1,7 +1,7 @@
 {
-  "name": "greenwood-mapping",
+  "name": "center-tulsa-sandbox",
   "version": "1.0.0",
-  "description": "",
+  "description": "fork of master sandbox",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

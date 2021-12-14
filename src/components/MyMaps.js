@@ -3,14 +3,14 @@ import { MapContainer, TileLayer } from "react-leaflet";
 import Navbar from "./Navbar";
 
 function MyMaps() {
-  const position = [39.7392, 104.9903];
+  const position = [36.1604, -95.9877];
   return (
     <div>
       <Navbar />
       <MapContainer
         classname="map"
         center={position}
-        zoom={10}
+        zoom={14}
         style={{ height: 600, width: "100%" }}
       >
         <TileLayer
